@@ -46,7 +46,7 @@ function draw() {
   
   drawSprites();
   //add styles here
-  food.display();
+//   food.display();
 }
 
 function readStock(data) {
