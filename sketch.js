@@ -4,8 +4,8 @@ var addFoodbtn,fedTime,lastFed,foodObj;
 function preload()
 {
   //load images here
-  dogImg = loadImage("images/dog.png");
-  dog1Img = loadImage("images/dog1.png");
+  dogImg = loadImage("dog.png");
+  dog1Img = loadImage("dog1.png");
 }
 
 function setup() {
